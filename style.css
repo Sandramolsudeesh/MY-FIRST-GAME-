@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #f0f0f0;
+}
+
+#clickBtn {
+  position: absolute;
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: #ff6347;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
